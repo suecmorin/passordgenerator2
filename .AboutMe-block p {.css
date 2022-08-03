@@ -1,0 +1,22 @@
+.AboutMe-block p {
+    margin-left: 600px;
+    float: float-right;
+    text-align: right;
+    display: inline;
+}
+
+.myWork-block {
+    height: 600px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}   
+
+project-card-header {
+    position: relative;
+    margin: 10rem 5rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid darkslateblue;
+    border-radius: 8px;
+    transition: all 0.5% ease-in-out;
+}
